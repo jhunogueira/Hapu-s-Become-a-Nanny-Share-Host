@@ -22,9 +22,12 @@ export default function Form(){
     console.log('Axios:',res);
     console.log('Axios data:',res.data);
   }).catch((err) => { console.log('Axios Error:', err); });
-    };
 
-    console.log(formValues);
+  setFormValues({
+      name: '',
+      email: ''
+  })
+    };
     
     return (
         <form id="forms" onSubmit={handleOnSubmit}>
