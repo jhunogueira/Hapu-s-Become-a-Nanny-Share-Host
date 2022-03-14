@@ -1,3 +1,10 @@
+# How the Landing Page looks like (final version)
+
+Hero Section
+<img width="1440" alt="lp" src="https://user-images.githubusercontent.com/83295063/158085948-441bd7ca-6446-4676-9891-de4272127760.png">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
