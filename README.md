@@ -1,8 +1,11 @@
+# HAPU'S - BECOME A NANNY SHARE HOST
+This was a great React.js app to make. It was a simple landing page, using React.js and CSS for style. 
+In the future i'll plan refactoring this app, using typescript and styled components. 
+
 # How the Landing Page looks like (final version)
 
-Hero Section
+This is the Hero Section
 <img width="1440" alt="lp" src="https://user-images.githubusercontent.com/83295063/158085948-441bd7ca-6446-4676-9891-de4272127760.png">
-
 
 
 # Getting Started with Create React App
