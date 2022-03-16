@@ -1,5 +1,5 @@
 # HAPU'S - BECOME A NANNY SHARE HOST
-This was a great React.js app to make. It was a simple landing page, using React.js and CSS for style. 
+This was a great React.js app to make. It was a simpler landing page, using React.js and CSS for style. 
 In the future i'll plan refactoring this app, using typescript and styled components. 
 
 # How the Landing Page looks like (final version)
